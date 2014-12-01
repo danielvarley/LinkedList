@@ -3,6 +3,7 @@ package Question7;
 public class MainMethodClass {
 	public static void main(String[] args){
 
+//This was just so I could test some of the methods.
 
 		int[] p = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
 		LinkedList a = new LinkedList(p); 
